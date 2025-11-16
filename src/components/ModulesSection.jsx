@@ -14,7 +14,7 @@ export default function ModulesSection() {
   return (
     <section className="bg-black">
       <div className="flex min-h-screen w-full flex-col">
-        
+
         {/* --- IMAGEM + TÍTULO SOBREPOSTO --- */}
         <div className="relative w-full overflow-hidden">
           <img
@@ -71,8 +71,9 @@ export default function ModulesSection() {
             ))}
           </div>
 
-          <button
-            className="
+          <a href="#cta">
+            <button
+              className="
               mt-8 
               block 
               w-full 
@@ -91,9 +92,11 @@ export default function ModulesSection() {
               shadow-[0_18px_35px_rgba(0,0,0,0.85)] 
               mx-auto
             "
-          >
-            CLIQUE AQUI E ADQUIRA JÁ!
-          </button>
+            >
+
+              CLIQUE AQUI E ADQUIRA JÁ!
+            </button>
+          </a>
         </div>
       </div>
     </section>

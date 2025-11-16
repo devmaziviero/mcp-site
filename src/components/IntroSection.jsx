@@ -19,10 +19,11 @@ export default function IntroSection() {
               Você vai aprender do absoluto zero, tudo que precisa para começar
               hoje sua carreira como storymaker e fechar seu primeiro contrato.
             </p>
-
-            <button className="mt-8 inline-flex rounded-full border border-purple-400 px-10 py-3.5 text-xs font-semibold uppercase tracking-wide text-purple-300 transition hover:bg-purple-500 hover:text-white sm:text-sm lg:px-10 lg:py-3.5 lg:text-sm">
-              FAÇA SUA INSCRIÇÃO AGORA!
-            </button>
+            <a href="#cta">
+              <button className="mt-8 inline-flex rounded-full border border-purple-400 px-10 py-3.5 text-xs font-semibold uppercase tracking-wide text-purple-300 transition hover:bg-purple-500 hover:text-white sm:text-sm lg:px-10 lg:py-3.5 lg:text-sm">
+                FAÇA SUA INSCRIÇÃO AGORA! 
+              </button>
+            </a>
           </div>
         </div>
 

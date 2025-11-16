@@ -56,7 +56,7 @@ export default function PriceSection() {
             transition-all duration-300
           "
         >
-          CLIQUE AQUI PARA ADQUIRIR JÁ!
+          <a href="https://pay.kiwify.com.br/SJ7dkh5">  CLIQUE AQUI PARA ADQUIRIR JÁ! </a>
         </button>
 
          {/* BLOCO DA IMAGEM DO CELULAR */}

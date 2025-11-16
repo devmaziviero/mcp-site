@@ -28,6 +28,7 @@ export default function CallToActionPurposeSection() {
         </p>
 
         {/* BOTÃO */}
+        <a href="#cta">
         <button
           className="
             inline-flex items-center justify-center
@@ -44,8 +45,9 @@ export default function CallToActionPurposeSection() {
             transition-transform duration-300
           "
         >
-          COMEÇAR AGORA!
+            COMEÇAR AGORA!
         </button>
+        </a>
       </div>
     </section>
   )

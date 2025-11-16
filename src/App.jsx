@@ -39,9 +39,8 @@ function App() {
         <section id="feedbacks" className="scroll-mt-24">
           <FeedbacksSection />
         </section>
-
+        <PurposeBanner />
         <section id="aprendizados" className="scroll-mt-24">
-          <PurposeBanner />
           <WhatYouWillLearnSection />
         </section>
 
