@@ -1,6 +1,6 @@
 // src/components/FaqSection.tsx
 import faqIcon from "../assets/ballon-_.png"
-import pergunta1 from "../assets/Pergunta-1.png"
+import pergunta1 from "../assets/pergunta-1.png"
 import pergunta2 from "../assets/pergunta-2.png"
 import pergunta3 from "../assets/pergunta-3.png"
 import resposta1 from "../assets/resposta-1.png"

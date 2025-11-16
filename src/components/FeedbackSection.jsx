@@ -2,13 +2,13 @@
 import { useState } from "react"
 
 // Prints de feedback
-import fb1 from "../assets/Feedback (4).png"
-import fb2 from "../assets/Feedback (2).png"
-import fb3 from "../assets/Feedback (3).png"
-import fb4 from "../assets/Feedback (1).png"
+import fb1 from "../assets/feedback (4).png"
+import fb2 from "../assets/feedback (2).png"
+import fb3 from "../assets/feedback (3).png"
+import fb4 from "../assets/feedback (1).png"
 
 // Ícone do balão
-import iconHeart from "../assets/Ballon-feedback.png"
+import iconHeart from "../assets/ballon-feedback.png"
 
 const feedbackImages = [
   { src: fb1, alt: "Feedback 1 de aluna MCP" },
