@@ -10,7 +10,7 @@ O projeto prioriza **design moderno**, **boa performance** e **experiência do u
 
 ## 📸 Preview
 
-![Preview da landing page MCP](./desktop/Animação.gif)
+![Preview da landing page MCP](./src/Animação.gif)
 
 ---
 
