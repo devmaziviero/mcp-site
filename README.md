@@ -1,15 +1,16 @@
 # MCP – Storymaker Landing Page
 
-Landing page institucional desenvolvida para uma empresa de **storymaker**, com foco em apresentação de serviços, posicionamento de marca e conversão.
+Landing page institucional desenvolvida para uma empresa de **storymaker**, com foco em posicionamento de marca, apresentação de serviços e conversão.
 
-O projeto prioriza **design limpo**, **boa performance** e **experiência do usuário**, sendo totalmente responsivo e otimizado para web.
+O projeto prioriza **design moderno**, **boa performance** e **experiência do usuário**, sendo totalmente responsivo e otimizado para web.
 
 🔗 **Deploy:** https://mcp-site.vercel.app/
 
 ---
 
 ## 📸 Preview
-> *Adicione aqui um screenshot da página (opcional, mas recomendado)*
+
+![Preview da landing page MCP](./desktop/Animação.gif)
 
 ---
 
@@ -24,9 +25,10 @@ O projeto prioriza **design limpo**, **boa performance** e **experiência do usu
 
 ## 🎯 Objetivo do projeto
 - Criar uma landing page moderna e profissional
-- Apresentar serviços de forma clara e objetiva
-- Aplicar boas práticas de UI e estruturação de componentes
+- Comunicar a proposta de valor da empresa de forma clara
+- Aplicar boas práticas de UI e hierarquia visual
 - Garantir responsividade e carregamento rápido
+- Servir como projeto demonstrativo de front-end para portfólio
 
 ---
 
